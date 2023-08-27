@@ -26,6 +26,18 @@ To run this script, you need to have the following dependencies installed. You c
 6. The script will prompt you to enter the URL of the Pinterest board you want to download images from.
 
 7. Once the process is complete, the images will be downloaded to the specified directory on your local machine.
+   
+## Screenshots
+
+!Copy board url:
+![Screenshot (1231)](https://github.com/LoneStamp99/Pinterest-Image-Board-Downloader/assets/93658802/7ef26f00-3461-4475-adc3-328acd3f7bc0)
+
+!Downloading:
+![Screenshot (1232)](https://github.com/LoneStamp99/Pinterest-Image-Board-Downloader/assets/93658802/4d744ca1-afd9-409b-be3d-06956a106c0b)
+
+!Downloaded:
+![Screenshot (1233)](https://github.com/LoneStamp99/Pinterest-Image-Board-Downloader/assets/93658802/a042e9c9-1aab-4553-b476-a22ceda21625)
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
