@@ -1,0 +1,20 @@
+First, make sure that you are entering a valid Pinterest board URL. You can find the URL of a Pinterest board by clicking on the three dots in the top right corner of the board and selecting "Copy link."
+
+Second, make sure that you have installed the requests and BeautifulSoup libraries. You can install them using the following commands:
+
+pip install requests
+pip install beautifulsoup4
+-------------------------------------------------------------------------------------------------------or
+Installing requirements.txt
+
+1. Open a command prompt or terminal.
+
+2. Navigate to the directory where the requirements.txt file is located.
+
+3. Run the following command to install the dependencies:
+
+4. pip install -r requirements.txt
+
+This command will instruct pip to read the requirements.txt file and install all the listed dependencies.
+
+Note: Make sure you have pip installed and added to your system's PATH environment variable.

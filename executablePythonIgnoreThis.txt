@@ -1,0 +1,18 @@
+Terminal 
+
+Install library:
+pip install pyinstaller
+
+Execute command to terminal:
+If you want to add other files to the executable file, you can use the --add-data option.
+pyinstaller --onefile --icon=icon.ico --windowed terminal.py --add-data data.txt
+______________________________________________________
+or
+________________________________________________________
+Create a windowed executable file. By default, PyInstaller creates a console executable file.
+pyinstaller --onefile --icon=icon.ico --windowed terminal.py
+______________________________________________________
+ or
+______________________________________________________
+Deafualt installation.
+pyinstaller --onefile --icon=icon.ico my_script.py

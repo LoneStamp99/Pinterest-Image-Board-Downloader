@@ -1,0 +1,4 @@
+os
+beautifulsoup4
+tqdm
+requests
