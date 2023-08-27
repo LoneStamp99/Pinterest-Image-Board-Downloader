@@ -21,7 +21,7 @@ To run this script, you need to have the following dependencies installed. You c
 
 3. Run the script using the following command: "Just Hit Enter".
 
-6. The script will prompt you to enter the URL of the Pinterest board you want to download images from, and enter the download path.
+6. The script will prompt you to enter the URL of the Pinterest board you want to download images from, and enter the download folder path.
 
 7. Once the process is complete, the images will be downloaded to the specified directory on your local machine.
    
